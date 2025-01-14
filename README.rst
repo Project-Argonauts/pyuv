@@ -2,6 +2,22 @@
 pyuv: Python interface for libuv
 ================================
 
+(Xorvat note) How to build today
+=========
+
+To build wheel 
+
+::
+
+    pip wheel .
+
+To install
+
+::
+
+    pip install .
+
+
 .. image:: https://badge.fury.io/py/pyuv.png
     :target: http://badge.fury.io/py/pyuv
 
