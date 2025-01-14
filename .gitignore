@@ -21,3 +21,7 @@ docs/_build/
 
 wheelhouse/
 wheeltmp/
+
+venv
+new_venv
+test_timers/*
